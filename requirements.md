@@ -6,5 +6,5 @@
 | NF | **R4**                 | The **blinktime** must be given in frames. |
 | NF | **R5**                 | The system must be written in **Python**.|
 | NF | **R6**                 | The system must use the **OpenCV library**.|
-| NF | **R7**                 | The **imput** should be a **webcam**.|
+| NF | **R7**                 | The **imput** device should be a **webcam**.|
  
